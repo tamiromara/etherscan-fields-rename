@@ -1,6 +1,6 @@
 # Sepolia Etherscan Fields Rename Chrome Extension
 
-A Chrome extension that enhances your experience on Etherscan by allowing you to assign custom names to Ethereum addresses and contract hashes. This makes it easier to identify and navigate addresses and contracts on the blockchain.
+A Chrome extension that enhances your experience on Etherscan by allowing you to assign custom names to Ethereum addresses and contract hashes. This makes it easier to identify and navigate addresses and contracts on the Etherscan.
 
 > [!NOTE]
 > This extension has been developed with the extensive help of Chatgpt. This is my first time developing an extension. I therefore hope others would be inspired to contribute back to the extension by adding functionalities, fixing issues, and enhacing UI/UX.
