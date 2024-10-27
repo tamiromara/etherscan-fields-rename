@@ -74,7 +74,7 @@ This project is licensed under the MIT License with attribution. <br>[See the LI
 ## Disclaimer :
 
 > [!NOTE]
-> This extension was entirely generated using Chatgpt.
+> This extension was entirely generated using ChatGPT.
 
 ## Privacy :
 
