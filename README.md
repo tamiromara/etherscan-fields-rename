@@ -69,7 +69,6 @@ For mainnet, use:
 ## License :
 
 This project is licensed under the MIT License with attribution. <br>[See the LICENSE file for details](LICENSE).
-
 <br><br>
 
 ## Privacy :
